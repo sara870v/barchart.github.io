@@ -1,0 +1,16 @@
+#chart {
+  width: 80vw;
+  height: 370px;
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+  align-items: flex-end;
+}
+
+.bar {
+  width: 100px;
+  height: 0px;
+  background-color: rgb(129, 247, 247);
+  margin-left: 5px;
+  box-shadow: 10px 10px 18px -6px rgba(23, 33, 166, 0.6);
+}
